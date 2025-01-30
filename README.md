@@ -1,5 +1,10 @@
-## Hi there 👋
+ Markdown: https://www.markdownguide.org/
 
+ Markdown: https://www.markdownguide.org/
+
+Landing Page Template: https://github.com/Test-MyDFIR/Test-M...
+Project Page Template: https://github.com/Test-MyDFIR/Detect
+ 
 <!--
 **Joyce6420/Joyce6420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
